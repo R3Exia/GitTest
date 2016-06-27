@@ -7,3 +7,5 @@ Change Without Add!
 Add a Normal Content!
 
 Add a Content from another one!
+
+Add a Content without fast forward!
