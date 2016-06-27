@@ -7,5 +7,3 @@ Change Without Add!
 Add
 
 Add dev's Content!
-
-Add Normal Content!
